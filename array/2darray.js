@@ -6,7 +6,8 @@ let groceryList=[fruits,veg,meats];
 
 
 for(let list of groceryList){
-    for (let food of list ){
+    for (let food of list )
+    {
         console.log(food);
     }
 }
